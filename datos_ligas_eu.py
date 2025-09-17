@@ -19,7 +19,6 @@ print('Data source import complete.')
 
 """2. Se configura la ruta de archivo de los datos"""
 
-#Imports
 
 import numpy as np
 import pandas as pd
