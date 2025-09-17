@@ -26,7 +26,7 @@ import pandas as pd
 import sqlite3
 import matplotlib.pyplot as plt
 
-# Get the path to the downloaded dataset
+
 path = hugomathien_soccer_path
 
 database = path + '/database.sqlite'
